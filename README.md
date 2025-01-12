@@ -40,7 +40,7 @@ I am passionate about continuous learning and stay adaptable to the latest techn
 - ![Firebase Hosting](https://img.shields.io/badge/Firebase%20Hosting-FFCA28?style=flat-square&logo=firebase&logoColor=white) Firebase  
 
 ## 📫 Get in touch  
-Feel free to connect with me on [LinkedIn](your-linkedin-url) or reach out via [Email](your-email@example.com).  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arbazyousaf) or reach out via [Email](arbazyousaf.dev@gmail.com).  
 
 ---  
 
