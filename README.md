@@ -1,21 +1,21 @@
 # Hi 👋 I'm Yousaf!  
 
-I am a **dynamic Full Stack Developer** with over **6 years of experience** in a variety of project environments and currently working on **Upwork**. Proficient in **JavaScript, React.js, Next.js, Node.js, and MongoDB**, I excel at crafting robust web applications that meet user needs.
+I am a **dynamic Full Stack Developer** with over **6 years of experience** in a variety of project environments and currently working on **Upwork**. Proficient in **JavaScript, React.js, Next.js, Node.js**, and **MongoDB**, I excel at crafting robust web applications that meet user needs.  
 
-With a solid academic foundation in **Software Engineering**, I bring enhanced problem-solving abilities to every project. I am eager to contribute to larger initiatives within collaborative teams and leverage my technical skills to drive innovative solutions.
+With a solid academic foundation in **Software Engineering**, I bring enhanced problem-solving abilities to every project. I am eager to contribute to larger initiatives within collaborative teams and leverage my technical skills to drive innovative solutions.   
 
-I am passionate about continuous learning and stay adaptable to the latest technologies in the development landscape.
+I am passionate about continuous learning and stay adaptable to the latest technologies in the development landscape.  
 
 ## 💻 Technologies & Skills  
 
 ### Front-End Technologies  
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) HTML5  
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) CSS3  
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) JavaScript
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) React.js  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) JavaScript  
 - ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white) SASS  
 - ![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?style=flat-square&logo=mui&logoColor=white) Material UI  
 - ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) Tailwind CSS  
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) React.js  
 
 ### Back-End Technologies  
 - ![Node.js](https://img.shields.io/badge/Node.js-339639?style=flat-square&logo=node.js&logoColor=white) Node.js  
@@ -38,9 +38,11 @@ I am passionate about continuous learning and stay adaptable to the latest techn
 - ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white) Heroku  
 - ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) Vercel  
 - ![Firebase Hosting](https://img.shields.io/badge/Firebase%20Hosting-FFCA28?style=flat-square&logo=firebase&logoColor=white) Firebase  
+- ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) Netlify  
+- ![Hostinger](https://img.shields.io/badge/Hostinger-FF4F25?style=flat-square&logo=hostinger&logoColor=white) Hostinger  
 
 ## 📫 Get in touch  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arbazyousaf) or reach out via [Email](arbazyousaf.dev@gmail.com).  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arbazyousaf) or reach out via [Email](mailto:arbazyousaf.dev@gmail.com).  
 
 ---  
 
