@@ -1,8 +1,8 @@
 # Hi 👋 I'm Yousaf!  
 
-I am a dynamic Full Stack Developer with over 6 years of experience in a variety of project environments and currently working on Upwork. Proficient in JavaScript, React.js, Next.js, Node.js, and MongoDB, I excel at crafting robust web applications that meet user needs.
+I am a **dynamic Full Stack Developer** with over **6 years of experience** in a variety of project environments and currently working on **Upwork**. Proficient in **JavaScript, React.js, Next.js, Node.js, and MongoDB**, I excel at crafting robust web applications that meet user needs.
 
-With a solid academic foundation in Software Engineering, I bring enhanced problem-solving abilities to every project. I am eager to contribute to larger initiatives within collaborative teams and leverage my technical skills to drive innovative solutions.
+With a solid academic foundation in **Software Engineering**, I bring enhanced problem-solving abilities to every project. I am eager to contribute to larger initiatives within collaborative teams and leverage my technical skills to drive innovative solutions.
 
 I am passionate about continuous learning and stay adaptable to the latest technologies in the development landscape.
 
