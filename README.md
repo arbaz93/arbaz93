@@ -1,23 +1,42 @@
-### Hi there, I'm Yousaf Arbaz 👋 
+# Hi 👋 I'm Yousaf!  
 
-## I'm a Front end Junior Developer!!
+I am a skilled **Full Stack Web Developer** with over **6 years of experience** in building responsive and user-friendly web applications. I have expertise in both front-end and back-end technologies.  
 
-- 🌱 I’m currently learning Node JS 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Start my career
-- ⚡ I love to learn and always improve my skills
-<br />
+## 💻 Technologies & Skills  
 
-### Languages and Tools:
+### Front-End Technologies  
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) HTML5  
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) CSS3  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) JavaScript  
+- ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white) SASS  
+- ![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?style=flat-square&logo=mui&logoColor=white) Material UI  
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) Tailwind CSS  
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+### Back-End Technologies  
+- ![Node.js](https://img.shields.io/badge/Node.js-339639?style=flat-square&logo=node.js&logoColor=white) Node.js  
+- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) Express.js  
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) Next.js  
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+### Database Management  
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) MongoDB (Mongoose.js)  
+- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white) Firebase  
 
+### Version Control  
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) Git  
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) GitHub  
 
-<br />
-<br />
+### API Development  
+- RESTful APIs  
+- Rapid APIs  
+
+### Deployment and Hosting  
+- ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white) Heroku  
+- ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) Vercel  
+- ![Firebase Hosting](https://img.shields.io/badge/Firebase%20Hosting-FFCA28?style=flat-square&logo=firebase&logoColor=white) Firebase  
+
+## 📫 Get in touch  
+Feel free to connect with me on [LinkedIn](your-linkedin-url) or reach out via [Email](your-email@example.com).  
+
+---  
+
+I'm looking forward to collaborating on exciting projects! 🚀
