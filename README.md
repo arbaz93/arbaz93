@@ -11,6 +11,7 @@ I am a skilled **Full Stack Web Developer** with over **6 years of experience** 
 - ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white) SASS  
 - ![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?style=flat-square&logo=mui&logoColor=white) Material UI  
 - ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) Tailwind CSS  
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) React.js  
 
 ### Back-End Technologies  
 - ![Node.js](https://img.shields.io/badge/Node.js-339639?style=flat-square&logo=node.js&logoColor=white) Node.js  
