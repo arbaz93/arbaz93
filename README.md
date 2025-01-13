@@ -42,7 +42,7 @@ I am passionate about continuous learning and stay adaptable to the latest techn
 - ![Hostinger](https://img.shields.io/badge/Hostinger-FF4F25?style=flat-square&logo=hostinger&logoColor=white) Hostinger  
 
 ## 📫 Get in touch  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arbazyousaf) or reach out via [Email](mailto:arbazyousaf.dev@gmail.com).  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arbazyousaf), reach out via [Email](mailto:arbazyousaf.dev@gmail.com) or [Upwork](https://www.upwork.com/freelancers/~01487ba74cf79c697b).  
 
 ---  
 
