@@ -33,18 +33,13 @@
 
 - 💼 Freelance **Full Stack Developer & AI Integration Specialist**  
 - 🌍 Based in **[Your City, Country]**  
-- 🤖 Building **AI-powered applications** and **real-time system-level software**  
-- ⚡ Passionate about **clean code, performance, and scalable solutions**  
-- 🧠 Always learning **cloud, DevOps, and cutting-edge tech**  
+- 🤖 Building **AI-powered web and mobile applications**  
+- ⚡ Skilled in **React, React Native, Node.js, Python, Flask, and real-time systems**  
+- 🧠 Passionate about **clean code, performance, and scalable solutions**  
 
 ---
 
-## 🛠️ Tech Stack
-<a name="tech-stack"></a>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Tech Stack Animation"/>
-</p>
+## 🛠️ <img src="https://readme-typing-svg.herokuapp.com?lines=Tech+Stack&size=22&color=61DAFB&center=true" alt="Tech Stack Animation" />
 
 ### Frontend
 <p>
@@ -87,54 +82,36 @@
 
 ---
 
-## 🚀 Featured Projects
-<a name="projects"></a>
+## 🚀 <img src="https://readme-typing-svg.herokuapp.com?lines=Projects&size=22&color=61DAFB&center=true" alt="Projects Animation" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" alt="Projects Animation"/>
-</p>
-
-- **Project 1** – AI-powered real-time system with React + Python + Flask-SocketIO  
+- **AI Real-time System** – React + Python + Flask-SocketIO  
   🔗 [View Project](#)  
 
-- **Project 2** – Full-stack MERN app with Tailwind CSS & AI integration  
+- **Full-stack MERN App** – Tailwind CSS & AI integration  
   🔗 [View Project](#)  
 
-- **Project 3** – Interactive mobile/web app with React Native + APIs + uinput integration  
+- **Interactive Mobile/Web App** – React Native + APIs + uinput integration  
   🔗 [View Project](#)  
-
----
-
-## 📊 GitHub Stats
-<!--
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arbazyousaf&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbazyousaf&layout=compact&theme=github_dark&hide_border=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arbazyousaf&theme=github_dark&hide_border=true" height="165" />
-</p>
--->
 
 ---
 
 ## 🌱 Currently Learning
-<a name="currently-learning"></a>
 
-- 🤖 Advanced **AI & LLM integrations**  
-- ☁️ **Cloud, Docker & DevOps**  
-- 🧩 **Scalable, real-time system design**  
+- Advanced **AI & LLM integrations**  
+- **Cloud infrastructure, Docker & DevOps**  
+- **Real-time scalable system design**  
 
 ---
 
 ## 🏆 Achievements
 
-- 🎯 Delivered multiple **high-quality freelance projects**  
-- 📈 Built **production-ready full-stack & real-time applications**  
-- 💼 Strong record on **Upwork with client satisfaction**  
+- Delivered **high-quality freelance projects**  
+- Built **production-ready full-stack & real-time applications**  
+- Strong record on **Upwork with client satisfaction**  
 
 ---
 
 ## 🤝 Connect With Me
-<a name="connect-with-me"></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arbazyousaf)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arbazyousaf.dev@gmail.com)  
@@ -142,10 +119,4 @@
 
 ---
 
-## ⚡ Fun Fact  
-
-> I love building systems that **bridge AI, web apps, and real-world hardware** 🚀  
-
----
-
-⭐️ *Explore my repositories and let’s create something innovative together!*
+⭐ *Explore my repositories and let's build something innovative together!*
