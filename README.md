@@ -86,14 +86,14 @@
 ## 🚀 Projects
 <a name="projects"></a>
 
-- **AI Real-time System** – React + Python + Flask-SocketIO  
-  🔗 [View Project](#)  
+- **AI-assisted architectural visualization app** – React + Puter + Tailwind + Typscript  
+  🔗 [View Project](https://github.com/arbaz93/FloorScape)  
 
-- **Full-stack MERN App** – Tailwind CSS & AI integration  
-  🔗 [View Project](#)  
+- **Full-stack image manipulation web app** – React + Tailwind + Cloudinary + Firebase 
+  🔗 [View Project](https://github.com/arbaz93/Imageer)  
 
-- **Interactive Mobile/Web App** – React Native + APIs + uinput integration  
-  🔗 [View Project](#)  
+- **Full-stack customized workout generator** – React Native + APIs + uinput integration  
+  🔗 [View Project](https://github.com/arbaz93/React-Fitness-App)  
 
 ---
 
