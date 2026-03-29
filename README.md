@@ -92,7 +92,7 @@
 - **Full-stack image manipulation web app** – React + Tailwind + Cloudinary + Firebase <br>
   🔗 [View Project](https://github.com/arbaz93/Imageer)  
 
-- **Full-stack customized workout generator** – React Native + APIs + uinput integration <br>
+- **Full-stack customized workout generator** – React + APIs + Tailwind <br>
   🔗 [View Project](https://github.com/arbaz93/React-Fitness-App)  
 
 ---
