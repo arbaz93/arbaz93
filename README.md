@@ -22,7 +22,7 @@
 ## 🧑‍💻 About Me
 
 - 💼 Freelance **Full Stack Developer & AI Integration Specialist**  
-- 🌍 Based in **[Pakistan]**  
+- 🌍 Based in **[Your City, Country]**  
 - 🤖 Building **AI-powered applications** and **real-time system-level software**  
 - ⚡ Passionate about **clean code, performance, and scalable solutions**  
 - 🧠 Always learning **cloud, DevOps, and cutting-edge tech**  
@@ -51,8 +51,8 @@
 <img src="https://img.shields.io/badge/Express.js-80%25-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-85%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-80%25-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-SocketIO-75%25-010101?style=for-the-badge" />
-<img src="https://img.shields.io/badge/evdev-binary-70%25-444444?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Flask--SocketIO-75%25-6c757d?style=for-the-badge" />
+<img src="https://img.shields.io/badge/evdev-binary-70%25-6c757d?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Puter.js-60%25-000000?style=for-the-badge" />
 </p>
 
@@ -96,7 +96,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbazyousaf&layout=compact&theme=radical&hide_border=true" height="165" />
 </p>
 
-> ⚡ **Dark/Light mode aware:** All shields and stats adapt automatically to GitHub's theme.  
+> ⚡ **Dark/Light mode aware:** All badges and stats adapt automatically to GitHub's theme.  
 
 ---
 
