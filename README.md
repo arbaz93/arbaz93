@@ -43,7 +43,6 @@
 <a name="tech-stack"></a>
 
 <p align="center">
-  <!-- Tech Stack subtle animation -->
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Tech Stack Animation"/>
 </p>
 
