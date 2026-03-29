@@ -43,46 +43,47 @@
 <a name="tech-stack"></a>
 
 <p align="center">
+  <!-- Tech Stack subtle animation -->
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Tech Stack Animation"/>
 </p>
 
 ### Frontend
 <p>
-<a href="#"><img src="https://img.shields.io/badge/HTML5-90%25-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" /></a>
-<a href="#"><img src="https://img.shields.io/badge/CSS3-85%25-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" /></a>
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-90%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" /></a>
-<a href="#"><img src="https://img.shields.io/badge/React-85%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge" /></a>
-<a href="#"><img src="https://img.shields.io/badge/React_Native-75%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native Badge" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Next.js-80%25-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge" /></a>
-<a href="#"><img src="https://img.shields.io/badge/jQuery-70%25-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery Badge" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Web_Components-60%25-29ABE2?style=for-the-badge" alt="Web Components Badge" /></a>
-<a href="#"><img src="https://img.shields.io/badge/TailwindCSS-80%25-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS Badge" /></a>
-<a href="#"><img src="https://img.shields.io/badge/MUI-75%25-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="MUI Badge" /></a>
+<img src="https://img.shields.io/badge/HTML5-90%25-orange?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-85%25-blue?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-90%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-85%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/React_Native-75%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-80%25-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/jQuery-70%25-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+<img src="https://img.shields.io/badge/Web_Components-60%25-29ABE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TailwindCSS-80%25-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/MUI-75%25-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
 </p>
 
 ### Backend & Tools
 <p>
-<a href="#"><img src="https://img.shields.io/badge/Node.js-85%25-339639?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Express.js-80%25-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express Badge"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Python-85%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Flask-80%25-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Flask--SocketIO-75%25-6c757d?style=for-the-badge" alt="Flask-SocketIO Badge"/></a>
-<a href="#"><img src="https://img.shields.io/badge/evdev--binary-70%25-6c757d?style=for-the-badge" alt="evdev-binary Badge"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Puter.js-60%25-000000?style=for-the-badge" alt="Puter.js Badge"/></a>
+<img src="https://img.shields.io/badge/Node.js-85%25-339639?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-80%25-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-85%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-80%25-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask--SocketIO-75%25-6c757d?style=for-the-badge" />
+<img src="https://img.shields.io/badge/evdev--binary-70%25-6c757d?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Puter.js-60%25-000000?style=for-the-badge" />
 </p>
 
 ### AI & Integrations
 <p>
-<a href="#"><img src="https://img.shields.io/badge/AI_Integration-80%25-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AI Badge"/></a>
-<a href="#"><img src="https://img.shields.io/badge/REST_APIs-85%25-02569B?style=for-the-badge" alt="REST APIs Badge"/></a>
+<img src="https://img.shields.io/badge/AI_Integration-80%25-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-85%25-02569B?style=for-the-badge" />
 </p>
 
 ### Database & Runtime
 <p>
-<a href="#"><img src="https://img.shields.io/badge/MongoDB-80%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Firebase-75%25-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase Badge"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Linux-80%25-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Badge"/></a>
-<a href="#"><img src="https://img.shields.io/badge/uinput_Module-70%25-555555?style=for-the-badge" alt="uinput Module Badge"/></a>
+<img src="https://img.shields.io/badge/MongoDB-80%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-75%25-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-80%25-000000?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/uinput_Module-70%25-555555?style=for-the-badge" />
 </p>
 
 ---
