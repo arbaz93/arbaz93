@@ -9,7 +9,7 @@ I build **scalable, high-performance web applications** with a strong focus on u
 ## 🧑‍💻 About Me  
 
 - 💼 Currently working as a **Freelance Full Stack Developer**  
-- 🌍 Based in **[Your City, Country]**  
+- 🌍 Based in **[Pakistan]**  
 - ⚡ Passionate about **modern web technologies & continuous learning**  
 - 🧠 Strong foundation in **Software Engineering & problem-solving**  
 - 🤝 Open to **collaborations, remote roles, and exciting projects**  
