@@ -1,49 +1,110 @@
-# Hi 👋 I'm Yousaf!  
+# 👋 Hi, I'm Yousaf  
 
-I am a **dynamic Full Stack Developer** with over **6 years of experience** in a variety of project environments and currently working as a **Freelancer**. Proficient in **JavaScript, React.js, Next.js, Node.js**, and **MongoDB**, I excel at crafting robust web applications that meet user needs.  
+🚀 **Full Stack Developer | Problem Solver | Freelancer**  
 
-With a solid academic foundation in **Software Engineering**, I bring enhanced problem-solving abilities to every project. I am eager to contribute to larger initiatives within collaborative teams and leverage my technical skills to drive innovative solutions.   
+I build **scalable, high-performance web applications** with a strong focus on user experience and clean architecture. With **6+ years of experience**, I specialize in turning ideas into reliable digital products.
 
-I am passionate about continuous learning and stay adaptable to the latest technologies in the development landscape.  
+---
 
-## 💻 Technologies & Skills  
+## 🧑‍💻 About Me  
 
-### Front-End Technologies  
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) HTML5  
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) CSS3  
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) JavaScript
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) React.js  
-- ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white) SASS  
-- ![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?style=flat-square&logo=mui&logoColor=white) Material UI  
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) Tailwind CSS  
+- 💼 Currently working as a **Freelance Full Stack Developer**  
+- 🌍 Based in **[Your City, Country]**  
+- ⚡ Passionate about **modern web technologies & continuous learning**  
+- 🧠 Strong foundation in **Software Engineering & problem-solving**  
+- 🤝 Open to **collaborations, remote roles, and exciting projects**  
 
-### Back-End Technologies  
-- ![Node.js](https://img.shields.io/badge/Node.js-339639?style=flat-square&logo=node.js&logoColor=white) Node.js  
-- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) Express.js  
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) Next.js  
+---
 
-### Database Management  
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) MongoDB (Mongoose.js)  
-- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white) Firebase  
+## 🛠️ Tech Stack  
 
-### Version Control  
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) Git  
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) GitHub  
+### 💻 Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-0081CB?style=flat-square&logo=mui&logoColor=white)
 
-### API Development  
-- RESTful APIs  
-- Rapid APIs  
+### ⚙️ Backend  
+![Node.js](https://img.shields.io/badge/Node.js-339639?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-### Deployment and Hosting  
-- ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white) Heroku  
-- ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) Vercel  
-- ![Firebase Hosting](https://img.shields.io/badge/Firebase%20Hosting-FFCA28?style=flat-square&logo=firebase&logoColor=white) Firebase  
-- ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) Netlify  
-- ![Hostinger](https://img.shields.io/badge/Hostinger-FF4F25?style=flat-square&logo=hostinger&logoColor=white) Hostinger  
+### 🗄️ Database & Services  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 
-## 📫 Get in touch  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arbazyousaf), reach out via [Email](mailto:arbazyousaf.dev@gmail.com) or [Upwork](https://www.upwork.com/freelancers/~01487ba74cf79c697b).  
+### 🚀 Tools & DevOps  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
----  
+### 🌐 Deployment  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Firebase Hosting](https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
-I'm looking forward to collaborating on exciting projects! 🚀
+---
+
+## 🚀 Featured Projects  
+
+🔹 **Project Name 1**  
+> Short description of what it does and key impact  
+🔗 [View Project](#)
+
+🔹 **Project Name 2**  
+> Brief description highlighting tech stack or problem solved  
+🔗 [View Project](#)
+
+🔹 **Project Name 3**  
+> Concise explanation with outcome or purpose  
+🔗 [View Project](#)
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+## 🌱 Currently Learning  
+
+- ⚡ Advanced **Next.js & performance optimization**  
+- ☁️ Cloud & DevOps (**AWS, Docker**)  
+- 🧩 Scalable system design & architecture  
+
+---
+
+## 🏆 Achievements  
+
+- 🎯 Successfully delivered multiple **client projects as a freelancer**  
+- 📈 Built and deployed **production-ready full-stack applications**  
+- 💼 Consistent track record on **Upwork & client satisfaction**  
+
+---
+
+## 🤝 Connect With Me  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/arbazyousaf)  
+- 📧 [Email](mailto:arbazyousaf.dev@gmail.com)  
+- 🌐 [Upwork](https://www.upwork.com/freelancers/~01487ba74cf79c697b)  
+
+---
+
+## ⚡ Fun Fact  
+
+> I enjoy transforming complex problems into simple, elegant solutions 🚀  
+
+---
+
+⭐️ *Feel free to explore my repositories and let's build something amazing together!*  
