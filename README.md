@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Yousaf  
 
-🚀 **Full Stack Developer | Problem Solver | Freelancer**  
+🚀 **Full Stack Developer | AI-Integrated Applications | Freelancer**  
 
-I build **scalable, high-performance web applications** with a strong focus on user experience and clean architecture. With **6+ years of experience**, I specialize in turning ideas into reliable digital products.
+I build **scalable, high-performance web & mobile applications** with a strong focus on user experience and modern architecture. With **6+ years of experience**, I specialize in integrating **AI-powered features** into real-world applications.
 
 ---
 
@@ -10,9 +10,9 @@ I build **scalable, high-performance web applications** with a strong focus on u
 
 - 💼 Currently working as a **Freelance Full Stack Developer**  
 - 🌍 Based in **[Pakistan]**  
-- ⚡ Passionate about **modern web technologies & continuous learning**  
-- 🧠 Strong foundation in **Software Engineering & problem-solving**  
-- 🤝 Open to **collaborations, remote roles, and exciting projects**  
+- 🤖 Experienced in **integrating AI into web applications**  
+- ⚡ Passionate about **modern technologies & continuous learning**  
+- 🤝 Open to **collaborations, freelance, and remote opportunities**  
 
 ---
 
@@ -23,7 +23,9 @@ I build **scalable, high-performance web applications** with a strong focus on u
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Material UI](https://img.shields.io/badge/MUI-0081CB?style=flat-square&logo=mui&logoColor=white)
@@ -31,6 +33,11 @@ I build **scalable, high-performance web applications** with a strong focus on u
 ### ⚙️ Backend  
 ![Node.js](https://img.shields.io/badge/Node.js-339639?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+### 🤖 AI & Integrations  
+![AI Integration](https://img.shields.io/badge/AI_Integration-FF6F00?style=flat-square&logo=openai&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=api&logoColor=white)
+![Puter.js](https://img.shields.io/badge/Puter.js-000000?style=flat-square)
 
 ### 🗄️ Database & Services  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -51,15 +58,15 @@ I build **scalable, high-performance web applications** with a strong focus on u
 ## 🚀 Featured Projects  
 
 🔹 **Project Name 1**  
-> Short description of what it does and key impact  
+> AI-powered or full-stack application solving real-world problems  
 🔗 [View Project](#)
 
 🔹 **Project Name 2**  
-> Brief description highlighting tech stack or problem solved  
+> Scalable MERN stack application with modern UI/UX  
 🔗 [View Project](#)
 
 🔹 **Project Name 3**  
-> Concise explanation with outcome or purpose  
+> Mobile or web app with API integrations  
 🔗 [View Project](#)
 
 ---
@@ -79,7 +86,7 @@ I build **scalable, high-performance web applications** with a strong focus on u
 
 ## 🌱 Currently Learning  
 
-- ⚡ Advanced **Next.js & performance optimization**  
+- 🤖 Advanced **AI integrations & LLM-based applications**  
 - ☁️ Cloud & DevOps (**AWS, Docker**)  
 - 🧩 Scalable system design & architecture  
 
@@ -87,9 +94,9 @@ I build **scalable, high-performance web applications** with a strong focus on u
 
 ## 🏆 Achievements  
 
-- 🎯 Successfully delivered multiple **client projects as a freelancer**  
-- 📈 Built and deployed **production-ready full-stack applications**  
-- 💼 Consistent track record on **Upwork & client satisfaction**  
+- 🎯 Delivered multiple **high-quality freelance projects**  
+- 📈 Built and deployed **production-ready full-stack apps**  
+- 💼 Strong track record on **Upwork with client satisfaction**  
 
 ---
 
@@ -103,8 +110,8 @@ I build **scalable, high-performance web applications** with a strong focus on u
 
 ## ⚡ Fun Fact  
 
-> I enjoy transforming complex problems into simple, elegant solutions 🚀  
+> I enjoy building products that combine **clean code + smart AI features** 🚀  
 
 ---
 
-⭐️ *Feel free to explore my repositories and let's build something amazing together!*  
+⭐️ *Feel free to explore my repositories and let's build something impactful together!*  
