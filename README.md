@@ -32,7 +32,7 @@
 <a name="about-me"></a>
 
 - 💼 Freelance **Full Stack Developer & AI Integration Specialist**  
-- 🌍 Based in **[Your City, Country]**  
+- 🌍 Based in **[Pakistan]**  
 - 🤖 Building **AI-powered web and mobile applications**  
 - ⚡ Skilled in **React, React Native, Node.js, Python, Flask, and real-time systems**  
 - 🧠 Passionate about **clean code, performance, and scalable solutions**  
