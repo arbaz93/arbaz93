@@ -86,13 +86,13 @@
 ## 🚀 Projects
 <a name="projects"></a>
 
-- **AI-assisted architectural visualization app** – React + Puter + Tailwind + Typscript  
+- **AI-assisted architectural visualization app** – React + Puter + Tailwind + Typscript <br> 
   🔗 [View Project](https://github.com/arbaz93/FloorScape)  
 
-- **Full-stack image manipulation web app** – React + Tailwind + Cloudinary + Firebase 
+- **Full-stack image manipulation web app** – React + Tailwind + Cloudinary + Firebase <br>
   🔗 [View Project](https://github.com/arbaz93/Imageer)  
 
-- **Full-stack customized workout generator** – React Native + APIs + uinput integration  
+- **Full-stack customized workout generator** – React Native + APIs + uinput integration <br>
   🔗 [View Project](https://github.com/arbaz93/React-Fitness-App)  
 
 ---
