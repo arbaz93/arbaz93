@@ -5,6 +5,15 @@
 </p>
 
 <p align="center">
+  <a href="#about-me">About Me</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#github-stats">GitHub Stats</a> •
+  <a href="#currently-learning">Currently Learning</a> •
+  <a href="#connect-with-me">Connect</a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/arbazyousaf">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -20,6 +29,7 @@
 ---
 
 ## 🧑‍💻 About Me
+<a name="about-me"></a>
 
 - 💼 Freelance **Full Stack Developer & AI Integration Specialist**  
 - 🌍 Based in **[Your City, Country]**  
@@ -29,7 +39,8 @@
 
 ---
 
-## 🛠️ Tech Stack & Skills  
+## 🛠️ Tech Stack
+<a name="tech-stack"></a>
 
 ### Frontend
 <p>
@@ -45,14 +56,14 @@
 <img src="https://img.shields.io/badge/MUI-75%25-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
 </p>
 
-### Backend
+### Backend & Tools
 <p>
 <img src="https://img.shields.io/badge/Node.js-85%25-339639?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-80%25-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-85%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-80%25-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask--SocketIO-75%25-6c757d?style=for-the-badge" />
-<img src="https://img.shields.io/badge/evdev-binary-70%25-6c757d?style=for-the-badge" />
+<img src="https://img.shields.io/badge/evdev--binary-70%25-6c757d?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Puter.js-60%25-000000?style=for-the-badge" />
 </p>
 
@@ -73,6 +84,7 @@
 ---
 
 ## 🚀 Featured Projects
+<a name="projects"></a>
 
 - **Project Name 1** – AI-powered real-time system with React + Python + Flask-SocketIO  
   🔗 [View Project](#)  
@@ -86,21 +98,18 @@
 ---
 
 ## 📊 GitHub Stats
+<a name="github-stats"></a>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arbazyousaf&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arbazyousaf&theme=radical&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=arbazyousaf&show_icons=true&theme=github_dark&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbazyousaf&layout=compact&theme=github_dark&hide_border=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arbazyousaf&theme=github_dark&hide_border=true" height="165" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbazyousaf&layout=compact&theme=radical&hide_border=true" height="165" />
-</p>
-
-> ⚡ **Dark/Light mode aware:** All badges and stats adapt automatically to GitHub's theme.  
 
 ---
 
 ## 🌱 Currently Learning
+<a name="currently-learning"></a>
 
 - 🤖 Advanced **AI & LLM integrations**  
 - ☁️ **Cloud, Docker & DevOps**  
@@ -117,6 +126,7 @@
 ---
 
 ## 🤝 Connect With Me
+<a name="connect-with-me"></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arbazyousaf)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arbazyousaf.dev@gmail.com)  
