@@ -39,7 +39,8 @@
 
 ---
 
-## 🛠️ <img src="https://readme-typing-svg.herokuapp.com?lines=Tech+Stack&size=22&color=61DAFB&center=true" alt="Tech Stack Animation" />
+## 🛠️ Tech Stack
+<a name="tech-stack"></a>
 
 ### Frontend
 <p>
@@ -82,7 +83,8 @@
 
 ---
 
-## 🚀 <img src="https://readme-typing-svg.herokuapp.com?lines=Projects&size=22&color=61DAFB&center=true" alt="Projects Animation" />
+## 🚀 Projects
+<a name="projects"></a>
 
 - **AI Real-time System** – React + Python + Flask-SocketIO  
   🔗 [View Project](#)  
