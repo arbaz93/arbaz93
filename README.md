@@ -109,7 +109,6 @@
 
 - Delivered **high-quality freelance projects**  
 - Built **production-ready full-stack & real-time applications**  
-- Strong record on **Upwork with client satisfaction**  
 
 ---
 
