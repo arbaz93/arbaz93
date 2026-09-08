@@ -107,7 +107,7 @@
 
 ## 🏆 Achievements
 
-- Delivered **high-quality freelance projects**  
+- Built over 50+ **high-quality projects**  
 - Built **production-ready full-stack & real-time applications**  
 
 ---
